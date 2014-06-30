@@ -1,0 +1,4 @@
+you cannot have a library with the same name as the pde file.
+.../sketchbook/Adxl345/Adxl345.pde
+.../sketchbook/Adxl345/Adxl345.cpp
+.../sketchbook/Adxl345/Adxl345.h
